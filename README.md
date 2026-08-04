@@ -89,4 +89,4 @@ This project is for personal/educational use.
 
 ## Author
 
-Built by Asgalimba (kreisel) as part of an ongoing exploration into full-stack development, blockchain concepts, and climate tech.
+Built by Srimukesh as part of an ongoing exploration into full-stack development, blockchain concepts, and climate tech.
